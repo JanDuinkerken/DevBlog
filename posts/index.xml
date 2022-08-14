@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevBlog</title>
+    <link>https://DevBlog.github.io/posts/</link>
+    <description>Recent content in Posts on DevBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://DevBlog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://DevBlog.github.io/posts/test/</link>
+      <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>
+      
+      <guid>https://DevBlog.github.io/posts/test/</guid>
+      <description>Hi everyone!
+This post is mean to be an explanation on the different topics I&amp;rsquo;m going to write about and why I created this blog.
+I really love coding and cybersecurity, so those are going to be the main topics off this blog, but I will probably also write some posts on linux ricing and the different tools/ programs I like to use for my day to day Computer Engineering studies and work.</description>
+      <content>&lt;p&gt;Hi everyone!&lt;/p&gt;
+&lt;p&gt;This post is mean to be an explanation on the different topics I&amp;rsquo;m going to write about and why I created this blog.&lt;/p&gt;
+&lt;p&gt;I really love coding and cybersecurity, so those are going to be the main topics off this blog, but I will probably also write some posts on linux ricing and the different tools/ programs I like to use for my day to day Computer Engineering studies and work.&lt;/p&gt;
+&lt;p&gt;The main reason I created this blog was to document my studies and the different things I learn in the case they might be useful to someone in the future.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s all for this first post, see you all in the next weeks as I keep posting!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

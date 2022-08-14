@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://janduinkerken.github.io/DevBlog/posts/test/</link>
+      <link>https://janduinkerken.github.io/DevBlog/posts/hello/</link>
       <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>
       
-      <guid>https://janduinkerken.github.io/DevBlog/posts/test/</guid>
+      <guid>https://janduinkerken.github.io/DevBlog/posts/hello/</guid>
       <description>Hi everyone!
 This post is mean to be an explanation on the different topics I&amp;rsquo;m going to write about and why I created this blog.
 I really love coding and cybersecurity, so those are going to be the main topics off this blog, but I will probably also write some posts on linux ricing and the different tools/ programs I like to use for my day to day Computer Engineering studies and work.</description>

@@ -8,6 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About me</title>
+      <link>https://janduinkerken.github.io/DevBlog/about/</link>
+      <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>
+      
+      <guid>https://janduinkerken.github.io/DevBlog/about/</guid>
+      <description>Hello everyone! I am Jan Duinkerken Rodríguez, a Computer Engineering student based in A Coruña, Spain
+My main interests are programming and cybersecurity, so espect to see a lot about those topics in this blog!
+I am currently finishing my studies, but after that I plan on getting my masters in cybersecurity and trying to land a job in that field, even though I wouldn&amp;rsquo;t mind working as a developer also.</description>
+      <content>&lt;p&gt;Hello everyone!
+I am Jan Duinkerken Rodríguez, a Computer Engineering student based in A Coruña, Spain&lt;/p&gt;
+&lt;p&gt;My main interests are programming and cybersecurity, so espect to see a lot about those topics in this blog!&lt;/p&gt;
+&lt;p&gt;I am currently finishing my studies, but after that I plan on getting my masters in cybersecurity and trying to land a job in that field, even though I wouldn&amp;rsquo;t mind working as a developer also.&lt;/p&gt;
+&lt;p&gt;You can find me on twitter as &lt;a href=&#34;https://twitter.com/JanDuinRod&#34;&gt;@JanDuinRod&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>First Post</title>
       <link>https://janduinkerken.github.io/DevBlog/posts/hello/</link>
       <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>

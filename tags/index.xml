@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DevBlog</title>
-    <link>https://DevBlog.github.io/tags/</link>
+    <link>https://janduinkerken.github.io/DevBlog/tags/</link>
     <description>Recent content in Tags on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://DevBlog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misc</title>
-      <link>https://DevBlog.github.io/tags/misc/</link>
+      <link>https://janduinkerken.github.io/DevBlog/tags/misc/</link>
       <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>
       
-      <guid>https://DevBlog.github.io/tags/misc/</guid>
+      <guid>https://janduinkerken.github.io/DevBlog/tags/misc/</guid>
       <description></description>
       <content></content>
     </item>

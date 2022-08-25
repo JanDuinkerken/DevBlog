@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://janduinkerken.github.io/DevBlog/about/</loc>
-    <lastmod>2022-08-14T12:53:47+02:00</lastmod>
+    <loc>https://janduinkerken.github.io/DevBlog/tags/cybersecurity/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
   </url><url>
     <loc>https://janduinkerken.github.io/DevBlog/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
+  </url><url>
+    <loc>https://janduinkerken.github.io/DevBlog/tags/malware-analysis/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
+  </url><url>
+    <loc>https://janduinkerken.github.io/DevBlog/posts/malware_analysis/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
+  </url><url>
+    <loc>https://janduinkerken.github.io/DevBlog/posts/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
+  </url><url>
+    <loc>https://janduinkerken.github.io/DevBlog/tags/</loc>
+    <lastmod>2022-08-25T21:55:04+02:00</lastmod>
+  </url><url>
+    <loc>https://janduinkerken.github.io/DevBlog/about/</loc>
     <lastmod>2022-08-14T12:53:47+02:00</lastmod>
   </url><url>
     <loc>https://janduinkerken.github.io/DevBlog/posts/hello/</loc>
     <lastmod>2022-08-14T12:53:47+02:00</lastmod>
   </url><url>
     <loc>https://janduinkerken.github.io/DevBlog/tags/misc/</loc>
-    <lastmod>2022-08-14T12:53:47+02:00</lastmod>
-  </url><url>
-    <loc>https://janduinkerken.github.io/DevBlog/posts/</loc>
-    <lastmod>2022-08-14T12:53:47+02:00</lastmod>
-  </url><url>
-    <loc>https://janduinkerken.github.io/DevBlog/tags/</loc>
     <lastmod>2022-08-14T12:53:47+02:00</lastmod>
   </url><url>
     <loc>https://janduinkerken.github.io/DevBlog/categories/</loc>

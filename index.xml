@@ -6,7 +6,37 @@
     <description>Recent content on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Aug 2022 12:53:47 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 21:55:04 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malware Analysis</title>
+      <link>https://janduinkerken.github.io/DevBlog/posts/malware_analysis/</link>
+      <pubDate>Thu, 25 Aug 2022 21:55:04 +0200</pubDate>
+      
+      <guid>https://janduinkerken.github.io/DevBlog/posts/malware_analysis/</guid>
+      <description>Hi everyone!
+This last week I decided to try Matt Kiely&amp;rsquo;s Malware Analysis course published on TCM Security. I have always been curious about the inner workings of malware and this was the perfect opportunity for me to finally fulfill this knowledge.
+Overall the course was really well explained and the information really useful and to the point.
+Some of the different subjects explained in the course were:
+Basic Analysis Dynamic Analysis Decompiling Debugging Some specialty malware classes like shellcode, powershell, VBScript, C#, Go, Mobile malware, etc As a final course assignment we were tasked on writting a report on any of the malware samples we were provided as course material, so here is mine: https://github.</description>
+      <content>&lt;p&gt;Hi everyone!&lt;/p&gt;
+&lt;p&gt;This last week I decided to try Matt Kiely&amp;rsquo;s Malware Analysis course published on TCM Security. I have always been curious about the inner workings of malware and this was the perfect opportunity for me to finally fulfill this knowledge.&lt;/p&gt;
+&lt;p&gt;Overall the course was really well explained and the information really useful and to the point.&lt;/p&gt;
+&lt;p&gt;Some of the different subjects explained in the course were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Analysis&lt;/li&gt;
+&lt;li&gt;Dynamic Analysis&lt;/li&gt;
+&lt;li&gt;Decompiling&lt;/li&gt;
+&lt;li&gt;Debugging&lt;/li&gt;
+&lt;li&gt;Some specialty malware classes like shellcode, powershell, VBScript, C#, Go, Mobile malware, etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a final course assignment we were tasked on writting a report on any of the malware samples we were provided as course material, so here is mine:
+&lt;a href=&#34;https://github.com/JanDuinkerken/Malware-Analysis-Report&#34;&gt;https://github.com/JanDuinkerken/Malware-Analysis-Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are interested on this subject the first five hours of the course are availiable to watch for free on &lt;a href=&#34;https://www.youtube.com/watch?v=qA0YcYMRWyI&#34;&gt;youtube&lt;/a&gt;, so go check them out!&lt;/p&gt;
+&lt;p&gt;I think this is a very good course and recommend it 100%&lt;/p&gt;
+&lt;p&gt;Thats all for today, go check the &lt;a href=&#34;https://www.youtube.com/watch?v=qA0YcYMRWyI&#34;&gt;youtube video&lt;/a&gt; and have fun!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://janduinkerken.github.io/DevBlog/about/</link>

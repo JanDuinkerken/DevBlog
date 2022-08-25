@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on DevBlog</title>
-    <link>https://janduinkerken.github.io/DevBlog/posts/</link>
-    <description>Recent content in Posts on DevBlog</description>
+    <title>Cybersecurity on DevBlog</title>
+    <link>https://janduinkerken.github.io/DevBlog/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 21:55:04 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 21:55:04 +0200</lastBuildDate><atom:link href="https://janduinkerken.github.io/DevBlog/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Malware Analysis</title>
       <link>https://janduinkerken.github.io/DevBlog/posts/malware_analysis/</link>
@@ -34,23 +34,6 @@ Basic Analysis Dynamic Analysis Decompiling Debugging Some specialty malware cla
 &lt;p&gt;If you are interested on this subject the first five hours of the course are availiable to watch for free on &lt;a href=&#34;https://www.youtube.com/watch?v=qA0YcYMRWyI&#34;&gt;youtube&lt;/a&gt;, so go check them out!&lt;/p&gt;
 &lt;p&gt;I think this is a very good course and recommend it 100%&lt;/p&gt;
 &lt;p&gt;Thats all for today, go check the &lt;a href=&#34;https://www.youtube.com/watch?v=qA0YcYMRWyI&#34;&gt;youtube video&lt;/a&gt; and have fun!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://janduinkerken.github.io/DevBlog/posts/hello/</link>
-      <pubDate>Sun, 14 Aug 2022 12:53:47 +0200</pubDate>
-      
-      <guid>https://janduinkerken.github.io/DevBlog/posts/hello/</guid>
-      <description>Hi everyone!
-This post is mean to be an explanation on the different topics I&amp;rsquo;m going to write about and why I created this blog.
-I really love coding and cybersecurity, so those are going to be the main topics off this blog, but I will probably also write some posts on linux ricing and the different tools/ programs I like to use for my day to day Computer Engineering studies and work.</description>
-      <content>&lt;p&gt;Hi everyone!&lt;/p&gt;
-&lt;p&gt;This post is mean to be an explanation on the different topics I&amp;rsquo;m going to write about and why I created this blog.&lt;/p&gt;
-&lt;p&gt;I really love coding and cybersecurity, so those are going to be the main topics off this blog, but I will probably also write some posts on linux ricing and the different tools/ programs I like to use for my day to day Computer Engineering studies and work.&lt;/p&gt;
-&lt;p&gt;The main reason I created this blog was to document my studies and the different things I learn in the case they might be useful to someone in the future.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for this first post, see you all in the next weeks as I keep posting!&lt;/p&gt;
 </content>
     </item>
     
